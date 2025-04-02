@@ -3,7 +3,7 @@
 This repository contains the resources and scripts used to deploy a dynamic website on Amazon Web Services (AWS). The project leverages various AWS services to ensure high availability, scalability, and security for the application.
 
 ## Architecture Overview
-
+![Alt text](/3._Host_a_Dynamic_Web_App_on_AWS.png)
 The dynamic website is hosted on EC2 instances within a highly available and secure architecture that includes:
 
 1. **Virtual Private Cloud (VPC):** Configured with both public and private subnets across two Availability Zones for fault tolerance and high availability.
